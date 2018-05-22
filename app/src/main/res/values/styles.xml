@@ -9,6 +9,7 @@
         <item name="android:windowBackground">@color/colorBackground</item>
         <item name="android:textColor">@color/colorText</item>
         <item name="colorButtonNormal">@color/colorButton</item>
+        <item name="textColorPrimary">@color/colorAccent</item>
     </style>
 
 </resources>

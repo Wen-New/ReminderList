@@ -8,6 +8,10 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="8dp"
         android:orientation="vertical">
 
         <LinearLayout
@@ -73,6 +77,7 @@
                 android:id="@+id/buttonDateDialog"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:layout_marginLeft="16dp"
                 android:text="Choose a Date"
                 android:textAlignment="center" />
 
@@ -99,6 +104,7 @@
                 android:id="@+id/buttonTimeDialog"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:layout_marginLeft="66dp"
                 android:text="Choose a Time"
                 android:textAlignment="center" />
 
